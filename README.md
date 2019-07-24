@@ -1,3 +1,14 @@
+BotDetectionScanner
+=======
+This is a scanner for detecting web bot detectors on websites. The research paper based on this tool can be found on the ESORICS2019 homepage - link will be included as soon as avalaible. Also, check out results and related projects on our [website](http://www.gm.fh-koeln.de/%7Ekrumnow/fp_bot/index.html). 
+
+This scanner build on the OpenWPM framework. Specific files and further instructions for this scanner can be found in the `detection` directory, despite necessary changes in the OpenWPM framework.
+
+Please follow the instructions of OpenWPM to setup the scanner. Finally run `scan.py` to perform scans for web bot detectors.
+
+If further development will take place, it will be available on this [repository](https://github.com/bkrumnow/BDScanner).
+
+
 OpenWPM [![Build Status](https://travis-ci.org/citp/OpenWPM.svg?branch=master)](https://travis-ci.org/citp/OpenWPM)
 =======
 
