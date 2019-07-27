@@ -31,7 +31,7 @@ for (index, url) in fileReader:
     urls.append(url);
 del fileReader
 
-for i in range(1, len(urls),1):
+for i in range(0, len(urls),1):
     url = urls[i]
     print ("Command creation %s %s" % (i, url))
 
