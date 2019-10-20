@@ -1,6 +1,6 @@
 BotDetectionScanner
 =======
-This is a scanner for detecting web bot detectors on websites. The research paper based on this tool can be found on the ESORICS2019 homepage - link will be included as soon as avalaible. Also, check out results and related projects on our [website](http://www.gm.fh-koeln.de/%7Ekrumnow/fp_bot/index.html). 
+This is a scanner for detecting web bot detectors on websites. The research paper to this tool can be found on the [ESORICS2019 homepage](https://link.springer.com/chapter/10.1007/978-3-030-29962-0_28) or online as a [pre-print version](http://www.open.ou.nl/hjo/papers/ESORICS19.pdf). Also, check out results and related projects on our [website](http://www.gm.fh-koeln.de/%7Ekrumnow/fp_bot/index.html). 
 
 This scanner build on the OpenWPM framework. Specific files and further instructions for this scanner can be found in the `detection` directory, despite necessary changes in the OpenWPM framework.
 
