@@ -6,7 +6,7 @@ This scanner build on the OpenWPM framework. Specific files and further instruct
 
 Please follow the instructions of OpenWPM to setup the scanner. Finally run `scan.py` to perform scans for web bot detectors.
 
-If further development will take place, it will be available on this [repository](https://github.com/bkrumnow/BDScanner).
+Further development will take place on this [repository](https://github.com/bkrumnow/BDScanner).
 
 
 OpenWPM [![Build Status](https://travis-ci.org/citp/OpenWPM.svg?branch=master)](https://travis-ci.org/citp/OpenWPM)
